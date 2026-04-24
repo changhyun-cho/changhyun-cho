@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Changhyun Cho
-- 🔭 I’m a Joint Postdoctoral Associate at York University and MIT, working on galaxy formation, black hole accretion, AGN feedback, and cosmological simulations
-- 👀 I’m interested in black hole physics, high-redshift galaxies, reionization, 21 cm cosmology, and connecting simulations with observations
-- 🌱 I’m currently developing BH accretion and feedback models in GASOLINE and AREPO simulations, including NIHAO, HELLO, and THESAN
-- 💞️ I’m looking to collaborate on black hole growth, AGN feedback, galaxy evolution, and large-scale cosmological simulation projects
-- 🛠️ I also build analysis tools for simulation post-processing, power spectrum analysis, and observational comparisons
-- 📫 How to reach me: [choch@yorku.ca] [chcho@mit.edu] 
-- 🌐 [[Google Scholar](https://scholar.google.com/citations?user=vXr1aBUAAAAJ)]
+🔭 I’m a Joint Postdoctoral Associate at York University and MIT, working on black hole accretion, AGN feedback, and reionization through cosmological simulations
+
+🌱 I’m currently developing BH accretion and feedback models in GASOLINE and AREPO simulations, including NIHAO, HELLO, THESAN, and THESAN-Zoom
+
+📫 E-mail: [choch@yorku.ca] [chcho@mit.edu] 
+🌐 [[Google Scholar](https://scholar.google.com/citations?user=vXr1aBUAAAAJ)]
